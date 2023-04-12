@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{281C7FA6-05C6-6B10-68D4-B332F4005F07}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cannon.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="92" Column="17" />
+      <File FileName="Assets/Scripts/FallFloor.cs" Line="33" Column="9" />
+      <File FileName="Assets/Scripts/KillZone.cs" Line="13" Column="58" />
+      <File FileName="Assets/Scripts/Canon.cs" Line="46" Column="1" />
+      <File FileName="Assets/Scripts/CannonManager.cs" Line="39" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="67adc271-203d-4d32-80fb-a7dc576c71c2" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
